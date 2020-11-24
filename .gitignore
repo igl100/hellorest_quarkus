@@ -2,6 +2,7 @@
 .project
 .classpath
 .settings/
+.theia
 bin/
 
 # IntelliJ
